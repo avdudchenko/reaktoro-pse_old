@@ -160,3 +160,25 @@ cython_debug/
 #  and can be added to the global gitignore or merged into this file.  For a more nuclear
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
+src/reaktoro_pse/examples/reaktoro_pse_to_phreeqc_comparison/water_removal_percent_sweep/Property difference.jpg
+src/reaktoro_pse/examples/reaktoro_pse_to_phreeqc_comparison/water_removal_percent_sweep/pH.jpg
+src/reaktoro_pse/examples/reaktoro_pse_to_phreeqc_comparison/water_removal_percent_sweep/Osmotic pressure.jpg
+src/reaktoro_pse/examples/reaktoro_pse_to_phreeqc_comparison/water_removal_percent_sweep/Calcite.jpg
+src/reaktoro_pse/examples/reaktoro_pse_to_phreeqc_comparison/temperature_sweep/Vapor pressure.jpg
+src/reaktoro_pse/examples/reaktoro_pse_to_phreeqc_comparison/temperature_sweep/Property difference.jpg
+src/reaktoro_pse/examples/reaktoro_pse_to_phreeqc_comparison/NaOH_sweep/Property difference.jpg
+src/reaktoro_pse/examples/reaktoro_pse_to_phreeqc_comparison/NaOH_sweep/pH.jpg
+src/reaktoro_pse/examples/reaktoro_pse_to_phreeqc_comparison/NaOH_sweep/Osmotic pressure.jpg
+src/reaktoro_pse/examples/reaktoro_pse_to_phreeqc_comparison/NaOH_sweep/Calcite.jpg
+src/reaktoro_pse/examples/reaktoro_pse_to_phreeqc_comparison/mix_ratio_sweep/Property difference.jpg
+src/reaktoro_pse/examples/reaktoro_pse_to_phreeqc_comparison/mix_ratio_sweep/pH.jpg
+src/reaktoro_pse/examples/reaktoro_pse_to_phreeqc_comparison/mix_ratio_sweep/Osmotic pressure.jpg
+src/reaktoro_pse/examples/reaktoro_pse_to_phreeqc_comparison/mix_ratio_sweep/Calcite.jpg
+src/reaktoro_pse/examples/reaktoro_pse_to_phreeqc_comparison/HCl_sweep/Property difference.jpg
+src/reaktoro_pse/examples/reaktoro_pse_to_phreeqc_comparison/HCl_sweep/pH.jpg
+src/reaktoro_pse/examples/reaktoro_pse_to_phreeqc_comparison/HCl_sweep/Osmotic pressure.jpg
+src/reaktoro_pse/examples/reaktoro_pse_to_phreeqc_comparison/HCl_sweep/Calcite.jpg
+src/reaktoro_pse/examples/reaktoro_pse_to_phreeqc_comparison/CaO_sweep/Property difference.jpg
+src/reaktoro_pse/examples/reaktoro_pse_to_phreeqc_comparison/CaO_sweep/pH.jpg
+src/reaktoro_pse/examples/reaktoro_pse_to_phreeqc_comparison/CaO_sweep/formed phase Calcite.jpg
+src/reaktoro_pse/examples/reaktoro_pse_to_phreeqc_comparison/CaO_sweep/Calcite.jpg
