@@ -192,7 +192,6 @@ class PyomoProperties:
             PropTypes.chem_prop, "speciesActivityLn", property_index
         )
         required_props.register_property(PropTypes.chem_prop, "temperature")
-        required_props.register_property(PropTypes.chem_prop, "pressure")
         required_props.register_build_function(propFuncs.build_osmotic_constraint)
         required_props.register_option("gas_constant", rkt.universalGasConstant)
         return required_props

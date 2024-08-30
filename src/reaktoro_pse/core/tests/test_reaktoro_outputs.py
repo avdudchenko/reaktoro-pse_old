@@ -95,7 +95,6 @@ def test_pyomo_constraints(build_standard_state):
     assert ("speciesStandardVolume", "H2O") in rkt_outputs.rkt_outputs
     assert ("speciesActivityLn", "H2O") in rkt_outputs.rkt_outputs
     assert ("temperature", None) in rkt_outputs.rkt_outputs
-    assert ("pressure", None) in rkt_outputs.rkt_outputs
     assert (
         rkt_outputs.user_outputs[("osmoticPressure", "H2O")].property_type
         == PropTypes.pyomo_built_prop
